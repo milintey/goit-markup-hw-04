@@ -198,10 +198,6 @@ img {
 
 /* СЕКЦИЯ 2 */
 
-.none {
-  display: none;
-}
-
 .features {
   display: flex;
 }
